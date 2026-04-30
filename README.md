@@ -4,6 +4,7 @@ This repository is a research-oriented prototype for stock return prediction and
 
 It compares statistical machine learning and deep learning models on OHLCV-based financial time series data. The workflow includes feature engineering, rolling-window training, forward-looking evaluation, signal generation, and basic strategy backtesting.
 
+The repository includes a small synthetic OHLCV sample file only for demonstrating the expected data format. Real market data should be downloaded separately before running meaningful experiments.
 ## Project Structure
 
 ```text
