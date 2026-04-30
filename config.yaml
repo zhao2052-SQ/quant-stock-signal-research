@@ -1,0 +1,8 @@
+data_path: data/raw/sample_ohlcv.csv
+output_dir: outputs
+target_horizon: 1
+lookback: 20
+train_ratio: 0.7
+model_name: random_forest
+initial_capital: 1.0
+transaction_cost: 0.0005
